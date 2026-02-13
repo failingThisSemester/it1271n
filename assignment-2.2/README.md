@@ -1,5 +1,7 @@
 # Custom Minimal Standard I/O Library Implementation
 
+Header file: [`bulbasaur.h`](bulbasaur.h)
+
 ## Problem Statement
 
 1. Write a C program that imitates the functions provided by `<stdio.h>`. You should have
