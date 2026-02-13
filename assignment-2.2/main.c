@@ -8,7 +8,7 @@
 
 #define CARROTS 10
 #define POTATOES 10
-#define WATER 1.2
+#define WATER 1.22
 
 int main(int argc, char *argv[]) { 
 	// normal writing to output stream
