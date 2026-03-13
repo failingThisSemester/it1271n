@@ -2,6 +2,8 @@
 
 Departmental Lab Assignments
 
+Formatted with `clang-format` (WebKit Style Guide)
+
 1. Jan 30, 2026
     - [Star Pattern](assignment-1/star_patterns.c)
 2. Feb 6, 2026
@@ -12,4 +14,4 @@ Departmental Lab Assignments
         - functions implemented: `bulbaPrintf()` (variadic functions)
 4. Mar 6, 2026
     - Memory Management (`malloc`, `calloc` and `realloc`)
-    - 
+    - Student Inventory with AoS:: `struct`, `malloc`, `realloc`
