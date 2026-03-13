@@ -10,3 +10,6 @@ Departmental Lab Assignments
 3. Feb 13, 2026
     - [bulbasaur.h](assignment-2.2/README.md): Custom Minimal Standard I/O Library Implementation
         - functions implemented: `bulbaPrintf()` (variadic functions)
+4. Mar 6, 2026
+    - Memory Management (`malloc`, `calloc` and `realloc`)
+    - 
