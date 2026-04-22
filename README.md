@@ -15,3 +15,10 @@ Formatted with `clang-format` (WebKit Style Guide)
 4. Mar 6, 2026
     - Memory Management (`malloc`, `calloc` and `realloc`)
     - Student Inventory with AoS:: `struct`, `malloc`, `realloc`
+
+undocumented:
+
+5. endianness
+6. _Generics, binary file, VLA
+7. file opening and dir walking
+8. variadic functions and a little lexer
