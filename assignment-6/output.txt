@@ -1,0 +1,83 @@
+UNKNOWN: #
+ID	include
+WS
+OP: <
+ID	stdio
+PUNC: .
+ID	h
+OP: >
+WS
+WS
+KW	int
+WS
+KW	int
+WS
+ID	main
+PUNC: (
+KW	int
+WS
+ID	argc
+PUNC: ,
+WS
+ID	char
+WS
+ID	const
+WS
+OP: *
+ID	argv
+PUNC: [
+PUNC: ]
+PUNC: )
+WS
+PUNC: {
+WS
+WS
+COMMENT
+WS
+WS
+COMMENT
+WS
+ID	hello
+WS
+WS
+ID	there
+WS
+WS
+OP: *
+OP: /
+WS
+WS
+KW	int
+WS
+ID	x
+WS
+OP: =
+WS
+NUM:-10	
+PUNC: ;
+WS
+WS
+ID	if
+WS
+PUNC: (
+ID	x
+WS
+OP: >=
+WS
+NUM:9	
+PUNC: )
+WS
+WS
+ID	printf
+PUNC: (
+STR:"HELLO WORLD!\n"	
+PUNC: )
+PUNC: ;
+WS
+WS
+ID	return
+WS
+NUM:0	
+PUNC: ;
+WS
+PUNC: }
